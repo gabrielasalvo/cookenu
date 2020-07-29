@@ -6,6 +6,8 @@ ___
    ## Link da documentação: :space_invader:
    
   [Postman](https://documenter.getpostman.com/view/10904725/T1DtdaFL?version=latest)
+  
+  ### Projeto feito em parceria com [Milene Taborda](https://github.com/future4code/Milene-Taborda) :octocat:
 
 
 
@@ -34,4 +36,6 @@ Esse produto nada mais é do que uma rede social, na qual os usuários podem div
 6. **Feed**
 
     Um usuário deve poder visualizar as receitas criadas pelos usuários que ele segue. As receitas devem estar ordenadas pela data de criação.
+    
+    
 
