@@ -2,6 +2,11 @@
 
 ___
 
+    
+    ## Link da documentação: :space_invader:
+    ```
+    https://documenter.getpostman.com/view/10904725/T1DtdaFL?version=latest
+    ``` 
 
 
 Esse produto nada mais é do que uma rede social, na qual os usuários podem dividir informações relevantes sobre comidas e receitas que tenham experimentado. Ela possui todas as funcionalidades mais comuns em redes sociais:
@@ -29,8 +34,4 @@ Esse produto nada mais é do que uma rede social, na qual os usuários podem div
 6. **Feed**
 
     Um usuário deve poder visualizar as receitas criadas pelos usuários que ele segue. As receitas devem estar ordenadas pela data de criação.
-    
-    ## Link da documentação:
-    ```
-    https://documenter.getpostman.com/view/10904725/T1DtdaFL?version=latest
-    ``` 
+
